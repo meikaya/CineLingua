@@ -1,5 +1,5 @@
 # ホームページ表示
-[https://nakahito33.github.io/](https://meikaya.github.io/CineLingua/)
+[https://meikaya.github.io/CineLingua/]
 
 # AIによる映画翻訳の具体的な方法
 
